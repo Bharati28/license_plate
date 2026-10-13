@@ -21,11 +21,10 @@ Prerequisites:
 Make sure Python and Tesseract OCR are installed on your system.
 Install the Python dependencies.
 Open a terminal in the project directory and run:
-pip install opencv-python numpy pytesseract
+pip install opencv-python numpy pytesseract imutils
 Run the project.
 Run the main Python script:
-python main.py
-Replace "main.py" with the actual name of your Python script if it is different.
+python license_plate.py
 Project Purpose:
 This project helped me explore Python-based computer vision, image processing, and OCR techniques for vehicle license plate recognition.
 Future Improvements:
